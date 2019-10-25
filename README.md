@@ -90,7 +90,9 @@ Ok flying a double helix might seem like a silly idea, but imagine you are an au
 ##Project Writeup
 
 
-##A video of the flight is in the 'videos' folder.
+##A video of the flight is below.
+
+https://youtu.be/RkUDKLDbuNI
 
 ##Provide a writeup with all the rubric points and how you addressed each one.
 
